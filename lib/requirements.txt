@@ -26,7 +26,7 @@ pydantic==1.9.0
 pydantic[email]==1.9.0
 ics==0.7
 Jinja2==3.0.3
-certifi==2021.10.8
+certifi==2024.7.4
 googlehomepush==0.1.0
 PyChromecast==2.3.0
 python-dotenv==0.19.2
