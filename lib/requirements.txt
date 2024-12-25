@@ -25,7 +25,7 @@ python-multipart==0.0.5
 pydantic==1.9.0
 pydantic[email]==1.9.0
 ics==0.7
-Jinja2==3.0.3
+Jinja2==3.1.5
 certifi==2021.10.8
 googlehomepush==0.1.0
 PyChromecast==2.3.0
